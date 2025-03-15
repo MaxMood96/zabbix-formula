@@ -15,5 +15,5 @@ gem 'inspec', git: 'https://gitlab.com/saltstack-formulas/infrastructure/inspec'
 gem 'kitchen-docker', git: 'https://gitlab.com/saltstack-formulas/infrastructure/kitchen-docker', branch: 'ssf'
 # rubocop:enable Layout/LineLength
 
-gem 'kitchen-inspec', '>= 2.5.0'
+gem 'kitchen-inspec', '>= 2.6.1'
 gem 'kitchen-salt', '>= 0.7.2'
